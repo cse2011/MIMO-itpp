@@ -1,0 +1,136 @@
+# Created by Octave 3.8.2, Mon Apr 27 18:07:04 2015 COT <anedcar@anedcarPC>
+# name: BER
+# type: matrix
+# rows: 26
+# columns: 1
+ 0.20147
+ 0.17777
+ 0.15429
+ 0.13316
+ 0.1143
+ 0.09429
+ 0.07697
+ 0.06349
+ 0.04825
+ 0.03721
+ 0.02809
+ 0.02113
+ 0.01408
+ 0.01016
+ 0.00743
+ 0.0052
+ 0.00335
+ 0.00222
+ 0.00147
+ 0.00081
+ 0.0005999999999999999
+ 0.00041
+ 0.00033
+ 0.00024
+ 0.00011
+ 9.000000000000001e-05
+
+
+# name: BER_QAM
+# type: matrix
+# rows: 26
+# columns: 1
+ 0.19964
+ 0.17966
+ 0.15644
+ 0.13529
+ 0.11633
+ 0.09301
+ 0.07785
+ 0.06361
+ 0.04948
+ 0.03808
+ 0.02848
+ 0.02034
+ 0.01483
+ 0.01058
+ 0.00707
+ 0.00539
+ 0.00353
+ 0.00234
+ 0.00131
+ 0.00094
+ 0.00052
+ 0.00042
+ 0.00033
+ 0.00018
+ 0.0001
+ 6.999999999999999e-05
+
+
+# name: SNR
+# type: matrix
+# rows: 26
+# columns: 1
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+
+
+# name: SNR_QAM
+# type: matrix
+# rows: 26
+# columns: 1
+ 0
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+
+
+# name: p
+# type: sq_string
+# elements: 1
+# length: 1686
+.:/usr/lib/x86_64-linux-gnu/octave/3.8.2/site/oct/x86_64-pc-linux-gnu:/usr/lib/x86_64-linux-gnu/octave/site/oct/api-v49+/x86_64-pc-linux-gnu:/usr/lib/x86_64-linux-gnu/octave/site/oct/x86_64-pc-linux-gnu:/usr/share/octave/3.8.2/site/m:/usr/share/octave/site/api-v49+/m:/usr/share/octave/site/m:/usr/share/octave/site/m/startup:/usr/lib/x86_64-linux-gnu/octave/3.8.2/oct/x86_64-pc-linux-gnu:/usr/share/octave/3.8.2/m:/usr/share/octave/3.8.2/m/time:/usr/share/octave/3.8.2/m/signal:/usr/share/octave/3.8.2/m/strings:/usr/share/octave/3.8.2/m/path:/usr/share/octave/3.8.2/m/general:/usr/share/octave/3.8.2/m/prefs:/usr/share/octave/3.8.2/m/testfun:/usr/share/octave/3.8.2/m/set:/usr/share/octave/3.8.2/m/specfun:/usr/share/octave/3.8.2/m/linear-algebra:/usr/share/octave/3.8.2/m/gui:/usr/share/octave/3.8.2/m/sparse:/usr/share/octave/3.8.2/m/special-matrix:/usr/share/octave/3.8.2/m/audio:/usr/share/octave/3.8.2/m/elfun:/usr/share/octave/3.8.2/m/optimization:/usr/share/octave/3.8.2/m/miscellaneous:/usr/share/octave/3.8.2/m/startup:/usr/share/octave/3.8.2/m/deprecated:/usr/share/octave/3.8.2/m/plot:/usr/share/octave/3.8.2/m/plot/util:/usr/share/octave/3.8.2/m/plot/appearance:/usr/share/octave/3.8.2/m/plot/draw:/usr/share/octave/3.8.2/m/image:/usr/share/octave/3.8.2/m/io:/usr/share/octave/3.8.2/m/polynomial:/usr/share/octave/3.8.2/m/help:/usr/share/octave/3.8.2/m/java:/usr/share/octave/3.8.2/m/geometry:/usr/share/octave/3.8.2/m/statistics:/usr/share/octave/3.8.2/m/statistics/base:/usr/share/octave/3.8.2/m/statistics/distributions:/usr/share/octave/3.8.2/m/statistics/models:/usr/share/octave/3.8.2/m/statistics/tests:/usr/share/octave/3.8.2/m/pkg:/usr/share/octave/3.8.2/m/debian
+
+
